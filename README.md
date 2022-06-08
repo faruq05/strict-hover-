@@ -1,1 +1,1 @@
-# strict-hover-
+# strict-hover
